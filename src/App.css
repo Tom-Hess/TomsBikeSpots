@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.leaflet-container {
+  width: 80%;
+  height: 80vh;
+  border-style: solid;
+  border-color: red;
+  margin:auto;
+}
+
+.bikeIcon {
+  border: 1px solid white;
+  box-shadow: white 0px 0px 5px;
+  border-radius: 5px;
+}
+
+.bikeIcon:hover {
+    box-shadow: #FF4F00 0px 0px 5px;
+    border: 1px solid #FF4F00;
+}
+
+.googleMapsImage {
+  vertical-align: middle;
 }
