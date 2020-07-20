@@ -15,9 +15,9 @@ export default function LeafletMap() {
     const marshCreekPosition = [40.064532, -75.731558];
     const frenchCreekPosition= [40.198213, -75.8650549];
     const nockamixonPosition = [40.483256, -75.183733];
-    const lumsPondPosition = [39.5528071, -75.7828068];
+    const lumsPondPosition = [39.5540226, -75.7164015];
     const whiteClayPosition = [39.7151836,-75.7307132];
-    const gloucesterPosition = [39.7796659,-75.187871];
+    const gloucesterPosition = [39.7788073,-75.1181506];
     const bikerIconImage = new L.Icon({
         iconUrl: require('./images/bikeIcon2.png'),
         iconSize: new L.Point(30, 30),
