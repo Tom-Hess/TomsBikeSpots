@@ -4,7 +4,7 @@ A simple React app I made to get directions to the places where I go mountain bi
 
 ## Technologies Used
 
-ReactJS, HTML, CSS, AWS
+ReactJS, HTML, CSS, LeafletJS, AWS
 
 The project is deployed on AWS at https://master.dxzom54mfrspt.amplifyapp.com/
 
