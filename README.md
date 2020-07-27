@@ -8,6 +8,10 @@ ReactJS, HTML, CSS, AWS
 
 The project is deployed on AWS at https://master.dxzom54mfrspt.amplifyapp.com/
 
+## Other Info
+
+Map Icons generated with https://favicon.io/favicon-generator/
+
 ---------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
