@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Login from './Login.js';
 import LeafletMap from './LeafletMap';
 function App() {
   return (
@@ -12,7 +11,7 @@ function App() {
         crossOrigin=""
       />
       <div className="leaflet-map">
-        <h1>Tom's Biking Spots</h1>
+        <h1 className="bikingSpotsHeader">Tom's Biking Spots</h1>
         <LeafletMap/>
       </div>
     </div>

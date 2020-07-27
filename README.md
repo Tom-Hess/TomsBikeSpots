@@ -1,3 +1,14 @@
+# Tom's Bike Spots
+
+A simple React app I made to get directions to the places where I go mountain biking.
+
+## Technologies Used
+
+ReactJS, HTML, CSS, AWS
+
+The project is deployed on AWS at https://master.dxzom54mfrspt.amplifyapp.com/
+
+---------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
